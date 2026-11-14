@@ -241,7 +241,8 @@
     "name": "Motion",
     "group": "Kpop",
     "modelMotionFile": "kpop/chung_ha_chung_ha_snapping_motion/motion/main.vmd",
-    "camMotionFile": "kpop/chung_ha_chung_ha_snapping_motion/motion/camera.vmd"
+    "camMotionFile": "kpop/chung_ha_chung_ha_snapping_motion/motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/2bfbab6a0ae04363.mp3"
   },
   {
     "name": "CHUNG HA - Stay Tonight",
@@ -261,7 +262,8 @@
     "name": "Motion (2)",
     "group": "Kpop",
     "modelMotionFile": "kpop/clc_clc_me_motion/motion/main.vmd",
-    "camMotionFile": "kpop/clc_clc_me_motion/motion/camera.vmd"
+    "camMotionFile": "kpop/clc_clc_me_motion/motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/2c6f39e7421a31e6.mp3"
   },
   {
     "name": "Dalshabet - FRI. SAT. SUN",
@@ -371,7 +373,8 @@
     "name": "(G)I-DLE - se､oritta 1",
     "group": "Kpop",
     "modelMotionFile": "kpop/g_idle_g_i_dle_se_oritta_1/_g_i_dle_se_oritta_1/main.vmd",
-    "camMotionFile": "kpop/g_idle_g_i_dle_se_oritta_1/_g_i_dle_se_oritta_1/camera.vmd"
+    "camMotionFile": "kpop/g_idle_g_i_dle_se_oritta_1/_g_i_dle_se_oritta_1/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/3f37b6c03272287b.mp3"
   },
   {
     "name": "Se､orita dif",
@@ -732,7 +735,8 @@
     "name": "Motion (6)",
     "group": "Kpop",
     "modelMotionFile": "kpop/lisa_lisa_swalla_ver_2_0_motion/motion/main.vmd",
-    "camMotionFile": "kpop/lisa_lisa_swalla_ver_2_0_motion/motion/camera.vmd"
+    "camMotionFile": "kpop/lisa_lisa_swalla_ver_2_0_motion/motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/03f45727f2886b27.mp3"
   },
   {
     "name": "MAMAMOO - Egotistic [Mirin]",
@@ -859,7 +863,8 @@
     "name": "Motion (7)",
     "group": "Kpop",
     "modelMotionFile": "kpop/red_velvet_red_velvet_zimzalabim_motion/motion/main.vmd",
-    "camMotionFile": "kpop/red_velvet_red_velvet_zimzalabim_motion/motion/camera.vmd"
+    "camMotionFile": "kpop/red_velvet_red_velvet_zimzalabim_motion/motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/ce919ba26883fba7.mp3"
   },
   {
     "name": "No 2",
@@ -1003,23 +1008,27 @@
     "name": "Pattern2 (2)",
     "group": "Kpop",
     "modelMotionFile": "kpop/twice_twice_fancy_pattern2/pattern2/main.vmd",
-    "camMotionFile": "kpop/twice_twice_fancy_pattern2/pattern2/camera.vmd"
+    "camMotionFile": "kpop/twice_twice_fancy_pattern2/pattern2/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/2e647a0d73eb500a.mp3"
   },
   {
     "name": "_쁛뽭띸뽭",
     "group": "Kpop",
     "modelMotionFile": "kpop/twice_twice_feel_special_pattern_1/_/main.vmd",
-    "camMotionFile": "kpop/twice_twice_feel_special_pattern_1/_/camera.vmd"
+    "camMotionFile": "kpop/twice_twice_feel_special_pattern_1/_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/004741647df6c736.mp3"
   },
   {
     "name": "VMDSpectrum",
     "group": "Kpop",
-    "modelMotionFile": "kpop/twice_twice_feel_special_pattern_2_vmdsp/vmdspectrum/main.vmd"
+    "modelMotionFile": "kpop/twice_twice_feel_special_pattern_2_vmdsp/vmdspectrum/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/3aa9efbe6d86a79e.mp3"
   },
   {
     "name": "TWICE - LIKEY",
     "group": "Kpop",
-    "modelMotionFile": "kpop/twice_twice_likey/twice_likey/main.vmd"
+    "modelMotionFile": "kpop/twice_twice_likey/twice_likey/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/6925c83463930f87.mp3"
   },
   {
     "name": "TWICE - TT",
@@ -1040,6 +1049,7 @@
     "name": "Pattern1 (3)",
     "group": "Kpop",
     "modelMotionFile": "kpop/twice_twice_yes_or_yes_pattern1/pattern1/main.vmd",
-    "camMotionFile": "kpop/twice_twice_yes_or_yes_pattern1/pattern1/camera.vmd"
+    "camMotionFile": "kpop/twice_twice_yes_or_yes_pattern1/pattern1/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/f3cbb0dc8b16cc67.mp3"
   }
 ]
