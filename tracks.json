@@ -750,7 +750,17 @@
     "group": "Kpop",
     "modelMotionFile": "kpop/mamamoo_mamamoo_hip/mamamoo_hip/main.vmd",
     "camMotionFile": "kpop/mamamoo_mamamoo_hip/mamamoo_hip/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/44599d2c6c164b1bdea1acd4bf5eadfde44a2394.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/44599d2c6c164b1bdea1acd4bf5eadfde44a2394.mp3",
+    "cameraMotions": [
+      {
+        "name": "Camera",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s48_mmd_mamamoo_hip/cam_1.vmd"
+      },
+      {
+        "name": "Camera 2",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s48_mmd_mamamoo_hip/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "MOMOLAND - BAAM",
